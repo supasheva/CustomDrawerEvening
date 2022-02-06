@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+
+    <item android:id="@+id/homeFragment" android:icon="@drawable/ic_home" android:title="Home Page"/>
+    <item android:id="@+id/inboxFragment" android:icon="@drawable/ic_inbox" android:title="Inbox "/>
+
+
+
+  </group>
+  <item android:id="@+id/profile" android:icon="@drawable/ic_profile" android:title="Profile Page"/>
+
+
+  <group android:checkableBehavior="single">
+    <item android:id="@+id/loginFragment" android:icon="@drawable/ic_login" android:title="Login Page"/>
+    <item android:id="@+id/logoutFragment" android:icon="@drawable/ic_logout" android:title="Logout "/>
+
+    <item android:id="@+id/rateus" android:icon="@drawable/ic_rateus" android:title="Rate Us "/>
+
+
+  </group>
+
+</menu>

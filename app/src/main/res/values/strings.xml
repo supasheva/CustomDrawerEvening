@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">CustomDrawerEvening</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="custom_drawer">Kwadwo</string>
+  <string name="nav_open">open</string>
+  <string name="nav_close">close</string>
+  <string name="home_fragment">home fragment</string>
+  <string name="inbox_fragment">inbox fragment</string>
+  <string name="login_fragment">login fragment</string>
+  <string name="logout_fragment">logout fragment</string>
+
+</resources>
